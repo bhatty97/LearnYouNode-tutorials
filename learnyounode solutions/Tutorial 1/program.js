@@ -1,0 +1,1 @@
+console.log("HELLO WORLD") //Standard Hello World command into console.log
